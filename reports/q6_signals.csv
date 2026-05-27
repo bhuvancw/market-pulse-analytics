@@ -1,0 +1,13 @@
+ticker,company_name,sector,as_of_date,price,ma_50,ma_200,vs_ma50,vs_ma200,ma_cross,rsi,rsi_zone,vol_30d_pct,drawdown_pct,bb_position,signal
+GS,Goldman Sachs Group,Financials,2026-05-22,996.73,896.07,843.58,Above,Above,Golden Cross,73.7,Overbought,179.74,0.0,Above Upper Band,NEUTRAL
+MSFT,Microsoft Corporation,Technology,2026-05-22,418.57,399.61,458.27,Above,Below,Death Cross,55.1,Bullish,193.44,-22.29,Within Bands,NEUTRAL
+GOOGL,Alphabet Inc.,Technology,2026-05-22,382.97,341.14,295.96,Above,Above,Golden Cross,49.8,Neutral,236.17,-4.88,Within Bands,BULLISH
+AAPL,Apple Inc.,Technology,2026-05-22,308.82,270.36,261.09,Above,Above,Golden Cross,91.1,Overbought,140.07,0.0,Within Bands,NEUTRAL
+JPM,JPMorgan Chase & Co.,Financials,2026-05-22,306.38,301.22,303.26,Above,Above,Death Cross,48.8,Neutral,129.31,-7.97,Within Bands,NEUTRAL
+AMZN,Amazon.com Inc.,Consumer,2026-05-22,266.32,241.92,230.55,Above,Above,Golden Cross,43.3,Bearish,142.69,-3.15,Within Bands,NEUTRAL
+JNJ,Johnson & Johnson,Healthcare,2026-05-22,234.34,233.36,209.49,Above,Above,Golden Cross,68.0,Bullish,117.77,-5.72,Above Upper Band,NEUTRAL
+CVX,Chevron Corporation,Energy,2026-05-22,191.43,191.68,166.08,Below,Above,Golden Cross,51.3,Neutral,164.44,-8.51,Within Bands,BULLISH
+XOM,ExxonMobil Corporation,Energy,2026-05-22,154.92,154.73,129.38,Above,Above,Golden Cross,53.0,Neutral,192.46,-9.04,Within Bands,BULLISH
+WMT,Walmart Inc.,Consumer,2026-05-22,120.27,126.77,114.3,Below,Above,Golden Cross,31.9,Bearish,187.52,-10.38,Below Lower Band,NEUTRAL
+BAC,Bank of America Corp.,Financials,2026-05-22,51.8,50.84,51.39,Above,Above,Death Cross,47.5,Neutral,122.33,-9.01,Within Bands,NEUTRAL
+PFE,Pfizer Inc.,Healthcare,2026-05-22,25.9,26.46,25.04,Below,Above,Golden Cross,50.6,Neutral,95.56,-7.78,Within Bands,BULLISH

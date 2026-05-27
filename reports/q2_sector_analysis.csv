@@ -1,0 +1,6 @@
+sector,num_stocks,avg_monthly_return_cpt,approx_annual_return_pct,avg_volatility,worst_drawdown_pct,avg_rsi,avg_monthly_volume,risk_adjusted_score,sector_profile
+Technology,3,2.22,26.62,1.81,-44.3201,54.46,999568655.0,1.2246,High Return / High Risk
+Consumer,2,1.82,21.83,1.71,-53.3882,53.74,892590368.0,1.0627,High Return / High Risk
+Financials,3,1.77,21.22,1.81,-48.9468,54.03,435288088.0,0.9794,High Return / High Risk
+Energy,2,1.63,19.61,1.83,-55.0049,52.63,325513807.0,0.8954,High Return / High Risk
+Healthcare,2,0.62,7.44,1.35,-49.8613,50.51,454268753.0,0.4597,Low Return / High Risk

@@ -1,0 +1,13 @@
+ticker,company_name,sector,exchange,total_return_5yr_pct,avg_close_price,latest_price,avg_annual_vol_pcvt,max_drawdown_pct,return_to_risk_ratio,performance_category
+GOOGL,Alphabet Inc.,Technology,NASDAQ,493.2,145.45,382.97,3068.73,-44.32,0.16,Strong Performer
+GS,Goldman Sachs Group,Financials,NYSE,393.14,407.15,996.73,2951.09,-45.62,0.13,Strong Performer
+AAPL,Apple Inc.,Technology,NASDAQ,326.94,170.85,308.82,2861.42,-33.36,0.11,Strong Performer
+WMT,Walmart Inc.,Consumer,NYSE,269.8,61.5,120.27,2092.0,-25.74,0.13,Strong Performer
+MSFT,Microsoft Corporation,Technology,NASDAQ,254.78,320.75,418.57,2708.28,-37.15,0.09,Strong Performer
+XOM,ExxonMobil Corporation,Energy,NYSE,221.67,83.31,154.92,2969.08,-55.0,0.07,Strong Performer
+AMZN,Amazon.com Inc.,Consumer,NASDAQ,189.77,163.02,266.32,3357.43,-53.39,0.06,Strong Performer
+JPM,JPMorgan Chase & Co.,Financials,NYSE,181.1,167.5,306.38,2693.74,-43.63,0.07,Strong Performer
+CVX,Chevron Corporation,Energy,NYSE,129.47,122.97,191.43,2847.9,-54.83,0.05,Strong Performer
+JNJ,Johnson & Johnson,Healthcare,NYSE,102.68,152.69,234.34,1750.37,-27.37,0.06,Strong Performer
+BAC,Bank of America Corp.,Financials,NYSE,86.12,35.14,51.8,2986.98,-48.95,0.03,Moderate Performer
+PFE,Pfizer Inc.,Healthcare,NYSE,78.4,29.31,25.9,2543.0,-49.86,0.03,Moderate Performer

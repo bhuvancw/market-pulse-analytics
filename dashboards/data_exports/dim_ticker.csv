@@ -1,0 +1,13 @@
+ticker,company_name,sector,sub_sector,exchange,currency
+AAPL,Apple Inc.,Technology,Consumer Electronics,NASDAQ,USD
+MSFT,Microsoft Corporation,Technology,Enterprise Software,NASDAQ,USD
+GOOGL,Alphabet Inc.,Technology,Internet Services,NASDAQ,USD
+JPM,JPMorgan Chase & Co.,Financials,Banking,NYSE,USD
+GS,Goldman Sachs Group,Financials,Investment Banking,NYSE,USD
+BAC,Bank of America Corp.,Financials,Banking,NYSE,USD
+JNJ,Johnson & Johnson,Healthcare,Pharmaceuticals,NYSE,USD
+PFE,Pfizer Inc.,Healthcare,Biotechnology,NYSE,USD
+XOM,ExxonMobil Corporation,Energy,Oil & Gas,NYSE,USD
+CVX,Chevron Corporation,Energy,Oil & Gas,NYSE,USD
+AMZN,Amazon.com Inc.,Consumer,E-Commerce & Cloud,NASDAQ,USD
+WMT,Walmart Inc.,Consumer,Retail,NYSE,USD
